@@ -11,7 +11,7 @@ HomeCompass is a senior-friendly web application designed to help elderly Singap
 - Senior Accessibility Index (SAI) Scoring — ranks available listings by proximity to and density of senior-critical amenities (MRT stations, hawker centres, parks, clinics, and community clubs), weighted by the user's lifestyle preferences
 - Lease Buyback Scheme (LBS) Calculator — estimates LBS proceeds to give users a complete financial picture of their downsizing options
 
-You can access the deployed app **[HomeCompass here](https://homecompassapp.onrender.com/)**. Please open the **[Backend](https://homecompassbackend.onrender.com/)** link first and wait for it to load before launching the app as it is hosted on Render free tier and may take 1–2 minutes to wake up.
+You can access the deployed app **[HomeCompass here](https://homecompass-app.onrender.com)**. Please open the **[Backend](https://homecompass-backend-8g2f.onrender.com)** link first and wait for it to load before launching the app as it is hosted on Render free tier and may take 1–2 minutes to wake up.
 
 ---
 
